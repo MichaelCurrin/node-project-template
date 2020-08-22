@@ -17,6 +17,7 @@ For Python projects, see also [py-project-template](https://github.com/MichaelCu
 - [ ] Update package.json with scripts and dependencies
 - [ ] Develop your app
 - [ ] Update docs such as usage instructions and sample image
+- [ ] Optional - add docs folder built around a Docsify site, then enable as GitHub Pages site. See my [Docsify quickstart instructions](https://github.com/MichaelCurrin/docsify-js-template#b-add-docsify-to-an-existing-projects-docs-directory)
 - [ ] Update license file details if needed (change type and put on your own name)
 - [ ] Add CI/CD - link TBC
 - [ ] Delete this section
