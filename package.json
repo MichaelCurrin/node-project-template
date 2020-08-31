@@ -2,7 +2,7 @@
   "name": "node-project-template",
   "displayName": "Node Project Template",
   "description": "Template for creating new Node.js projects",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "MichaelCurrin",
   "homepage": "https://github.com/MichaelCurrin/node-project-template#readme",
   "repository": {
