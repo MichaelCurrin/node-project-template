@@ -21,7 +21,9 @@
 - [ ] Update docs such as usage instructions and add sample image to `Preview` section.
 - [ ] Optional - add docs folder built around a Docsify site, then enable as GitHub Pages site. See my [Docsify quickstart instructions](https://github.com/MichaelCurrin/docsify-js-template#b-add-docsify-to-an-existing-projects-docs-directory)
 - [ ] Update license file details if needed (change type and put on your own name)
-- [ ] Add CI/CD - link TBC
+- [ ] Customize CI/CD flow.
+    - See [Deploy](deploy.md) doc for how this currently works.
+    - If you need a more advanced workflow for GitHub Actions, see [Node workflow samples](https://github.com/MichaelCurrin/code-cookbook/tree/master/recipes/ci-cd/github-actions/workflows/node).
 - [ ] Add credits
     - [ ] Add a link back to the original repo in - https://github.com/MichaelCurrin/node-project-template
     - [ ] Copy the original license and then put your own name in `LICENSE` file.
