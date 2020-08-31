@@ -41,10 +41,9 @@ This project is deliberately open-ended so you can make choices about your own N
 
 For Python projects, see also [py-project-template](https://github.com/MichaelCurrin/py-project-template).
 
+### Quickstarts
 
-## Quickstarts
-
-If you are looking for some simple JS projects which are more detailed than this, see my other repos:
+If you are looking for some simple JS projects which are more detailed than this one, see my other repos:
 
 - [react-create-app-quickstart](https://github.com/MichaelCurrin/react-create-app-quickstart) - build and deploy a React app to GH Pages using GitHub Actions
 - [preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
