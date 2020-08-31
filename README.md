@@ -1,5 +1,5 @@
 # Node Project Template
-> Template for creating new Node.js projects
+> Template for creating Node.js projects including docs and a deploy pipeline
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/preact-quickstart/tags/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
