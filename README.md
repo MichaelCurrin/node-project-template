@@ -43,10 +43,13 @@ For Python projects, see also [py-project-template](https://github.com/MichaelCu
 
 ## Quickstarts
 
-If you are looking for some simple JS projects which are more detailed than this, see these:
+If you are looking for some simple JS projects which are more detailed than this, see my other repos:
 
-- [MichaelCurrin/react-create-app-quickstart](https://github.com/MichaelCurrin/react-create-app-quickstart) - includes build and deploying a React app to GH Pages
-- [MichaelCurrin/preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
+- [react-create-app-quickstart](https://github.com/MichaelCurrin/react-create-app-quickstart) - build and deploy a React app to GH Pages using GitHub Actions
+- [preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
+- [vue-js-quickstart](https://github.com/MichaelCurrin/vue-js-quickstart)
+- [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts) - a couple of JS projects that use a mixture of bundle and compile tools like React, TypeScript and Babel.
+- [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) - for running a markdown-based docs site without writing code.
 
 
 ## Documentation
