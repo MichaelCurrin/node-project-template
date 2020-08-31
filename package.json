@@ -1,0 +1,31 @@
+{
+  "name": "node-project-template",
+  "displayName": "Node Project Template",
+  "description": "Template for creating new Node.js projects",
+  "version": "0.1.0",
+  "publisher": "MichaelCurrin",
+  "homepage": "https://github.com/MichaelCurrin/node-project-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelCurrin/node-project-template"
+  },
+  "bugs": "https://github.com/MichaelCurrin/node-project-template/issues",
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "skeleton"
+  ],
+  "main": "./src/index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "compile": "echo 'Compile code - if using TS or Babel etc.'",
+    "test": "echo 'Add a test runner and then update this command'",
+    "build": "mkdir -p build && cp src/*.js build",
+    "preversion": "npm test",
+    "version": "npm run build",
+    "postversion": "git push --follow-tags"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
