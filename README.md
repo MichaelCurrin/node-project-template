@@ -21,14 +21,13 @@ _This is a placeholder section for a screenshot of your shiny new app_.
 
 ## About
 
+This is a template project for new JavaScript projects, whether making a frontend app, server-side app or CLI tool.
+
 ### How to use this project
 
-Click _Use this template_ button at the top.
-
-Follow the install and run instructions in [docs](/docs/) to get the basic app up and running.
-
-Follow the [Customization](/docs/customization.md) instructions to make it your own.
-
+1. Click _Use this template_ button at the top.
+2. Follow the install and run instructions in [docs](/docs/) to get the basic app up and running.
+3. Follow the [Customization](/docs/customization.md) instructions to make it your own.
 
 ### Purpose
 
@@ -38,13 +37,15 @@ So now I just use this repo as a starting point and reference, to make new proje
 
 This project is deliberately open-ended so you can make choices about your own NPM commands and test framework. The only dependency here is _ESLint_.
 
-For Python projects, see also [py-project-template](https://github.com/MichaelCurrin/py-project-template)
+For Python projects, see also [py-project-template](https://github.com/MichaelCurrin/py-project-template).
 
 
 ## Documentation
 > How to install, run and deploy this project
 
-See [docs](/docs/)
+[![View Project Docs](https://img.shields.io/badge/View-Project_Docs-green?style=for-the-badge)](/docs/)
+
+
 
 
 ## License
