@@ -10,7 +10,7 @@ $ npm run build
 
 ## Release
 
-A command to run tests, increment the tag and push it.
+This will run checks and tests, increment the tag version and push the new tagged commit.
 
 ```sh
 $ npm version minor
