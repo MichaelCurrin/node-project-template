@@ -16,7 +16,7 @@
     "skeleton"
   ],
   "main": "./src/index.js",
-   devDependencies": {	
+  "devDependencies": {	
     "eslint": "^7.7.0"
   },
   "scripts": {
