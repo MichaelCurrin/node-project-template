@@ -56,7 +56,7 @@ If you are looking for some simple JS projects which are more detailed than this
 ## Documentation
 > How to install, run and deploy this project
 
-[![View Project Docs](https://img.shields.io/badge/View-Project_Docs-green?style=for-the-badge)](/docs/)
+[![View Project Docs](https://img.shields.io/badge/View-Project_Docs-blue?style=for-the-badge)](/docs/)
 
 
 ## License
