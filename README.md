@@ -5,6 +5,8 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/preact-quickstart/tags/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+
 
 <div align="center">
 
@@ -55,8 +57,6 @@ If you are looking for some simple JS projects which are more detailed than this
 > How to install, run and deploy this project
 
 [![View Project Docs](https://img.shields.io/badge/View-Project_Docs-green?style=for-the-badge)](/docs/)
-
-
 
 
 ## License
