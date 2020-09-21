@@ -16,8 +16,9 @@ This is a template project for new JavaScript projects, whether making a fronten
 </div>
 
 1. Click the button above to fork the project.
-2. Follow the install and run instructions in [docs](/docs/) to get the basic app up and running.
-3. Follow the [Customization](customization.md) doc to make it your own.
+2. Install locally using the [Installation](installation.md) doc.
+3. Run locally using the [Usage](usage.md) docs.
+3. Follow the [Customization](customization.md) doc.
 
 
 ## Purpose
@@ -28,10 +29,14 @@ So now I just use this repo as a starting point and reference, to make new proje
 
 This project is deliberately open-ended so you can make choices about your own NPM commands and test framework. The only dependency here is _ESLint_.
 
-For Python projects, see also [py-project-template](https://github.com/MichaelCurrin/py-project-template).
 
+## Related Projects
 
-## Quickstarts
+### Python quickstart
+
+- [py-project-template](https://github.com/MichaelCurrin/py-project-template).
+
+### JavaScript quickstarts
 
 If you are looking for some simple JS projects which are more detailed than this one, see my other repos:
 
