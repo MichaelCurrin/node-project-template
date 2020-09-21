@@ -31,5 +31,5 @@
         $ cp LICENSE LICENSE-source
         $ edit LICENSE
         ```
-- [ ] Delete unneeded sections in README.md doc.
-- [ ] Delete this customization doc.
+- [ ] Delete unneeded sections in `README.md` doc.
+- [ ] Delete the `template-notes` directory in `docs/`.
