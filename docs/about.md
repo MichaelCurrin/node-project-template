@@ -1,15 +1,23 @@
 # About
 
-<!-- This page can be deleted when creating a new project from this template -->
+<!-- 
+This page can be removed when making a new project from this one, but the documentation section of README.md and the docs directory would be good to keep.
+-->
 
 This is a template project for new JavaScript projects, whether making a frontend app, server-side app or CLI tool.
 
 
 ## How to use this project
 
-1. Click _Use this template_ button at the top.
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/node-project-template/generate)
+
+</div>
+
+1. Click the button above to fork the project.
 2. Follow the install and run instructions in [docs](/docs/) to get the basic app up and running.
-3. Follow the [Customization](/docs/customization.md) instructions to make it your own.
+3. Follow the [Customization](/docs/customization.md) doc to make it your own.
 
 
 ## Purpose
