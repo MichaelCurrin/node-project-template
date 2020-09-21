@@ -26,7 +26,7 @@ _This is a placeholder section for a screenshot of your shiny new app_.
 
 ## About
 
-See the [about](/about.md) doc for info on this template project and how to use it.
+See the [about](/docs/about.md) doc for the purpose of this project and how to use it.
 
 
 ## Documentation
@@ -37,6 +37,7 @@ See the [about](/about.md) doc for info on this template project and how to use 
 [![View Project Docs](https://img.shields.io/badge/View-Project_Docs-blue?style=for-the-badge)](/docs/)
 
 </div>
+
 
 ## License
 
