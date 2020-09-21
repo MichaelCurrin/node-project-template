@@ -1,5 +1,7 @@
-## Customization
-> Things to do once you've created a new project from this one
+# Customization
+> Customize this app to make it your own
+
+Things to do once you've created a new project from this one:
 
 - [ ] Update title and description of this doc
 - [ ] Add/update badges
