@@ -17,7 +17,7 @@ This is a template project for new JavaScript projects, whether making a fronten
 
 1. Click the button above to fork the project.
 2. Follow the install and run instructions in [docs](/docs/) to get the basic app up and running.
-3. Follow the [Customization](/docs/customization.md) doc to make it your own.
+3. Follow the [Customization](customization.md) doc to make it your own.
 
 
 ## Purpose
@@ -35,8 +35,11 @@ For Python projects, see also [py-project-template](https://github.com/MichaelCu
 
 If you are looking for some simple JS projects which are more detailed than this one, see my other repos:
 
-- [react-create-app-quickstart](https://github.com/MichaelCurrin/react-create-app-quickstart) - build and deploy a React app to GH Pages using GitHub Actions
+- [react-quickstart](https://github.com/MichaelCurrin/react-quickstart) 
+    - Build and deploy a React app to GH Pages using GitHub Actions
 - [preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
-- [vue-js-quickstart](https://github.com/MichaelCurrin/vue-js-quickstart)
-- [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts) - a couple of JS projects that use a mixture of bundle and compile tools like React, TypeScript and Babel.
-- [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) - for running a markdown-based docs site without writing code.
+- [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart)
+- [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts) 
+    - A couple of JS projects that use a mixture of bundle and compile tools like React, TypeScript and Babel.
+- [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) 
+    - For running a markdown-based docs site without writing code.
