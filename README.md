@@ -28,7 +28,7 @@ _This is a placeholder section for a screenshot of your shiny new app_.
 
 ## About
 
-See the [about](/docs/about.md) doc for the purpose of this project and how to use it.
+See the [about](/docs/template-notes/about.md) doc for the purpose of this project and how to use it.
 
 
 ## Documentation
