@@ -4,7 +4,7 @@
 
 ## 1. Install system dependencies
 
-Install Node.js - follow [instructions](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba) in a gist.
+Install Node.js - follow these [instructions](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
 
 
 ## 2. Clone
