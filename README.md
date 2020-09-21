@@ -19,14 +19,14 @@
 
 _This is a placeholder section for a screenshot of your shiny new app_.
 
+<!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
+
     ![Preview screenshot](/sample.png)
 
 
-## How to use this project
+## About
 
-See the [about](/about.md) doc.
-
-That doc can be removed when making a new project from this one, but the documentation link and the `docs` directory would be good to keep.
+See the [about](/about.md) doc for info on this template project and how to use it.
 
 
 ## Documentation
