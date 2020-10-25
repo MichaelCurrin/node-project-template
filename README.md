@@ -19,7 +19,7 @@
 
 ## Preview
 
-_This is a placeholder section for a screenshot of your shiny new app_.
+_This is a placeholder section for a screenshot of your shiny new web app or CLI tool_.
 
 <!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
 
