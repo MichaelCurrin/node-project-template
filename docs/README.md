@@ -1,5 +1,5 @@
 # Node Project Template docs
 
-- [Installation](install.md)
+- [Installation](installation.md)
 - [Usage](usage.md)
 - [Deploy](deploy.md)
