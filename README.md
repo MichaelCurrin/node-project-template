@@ -24,10 +24,11 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 <!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
 
-    ![Preview screenshot](/sample.png)
-
+![Sample screenshot](/sample.png "Sample screenshot")
 
 ## About
+
+<!-- TODO delete this About section on a new site -->
 
 See the [about](/docs/template-notes/about.md) doc for the purpose of this project and how to use it.
 
