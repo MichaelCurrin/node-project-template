@@ -9,6 +9,7 @@
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
+<!-- TODO Remove this badge when creating a new app from this template -->
 
 <div align="center">
 
