@@ -24,7 +24,10 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 <!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
 
-![Sample screenshot](/sample.png "Sample screenshot")
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+</div>
+
 
 ## About
 
