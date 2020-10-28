@@ -21,7 +21,7 @@
     "compile": "echo 'Compile code - if using TS or Babel etc.'",
     "test": "echo 'Add a test runner and then update this command'",
     "build": "mkdir -p build && cp src/*.js build",
-    "preversion": "npm test",
+    "preversion": "git fetch --tags && npm test",
     "version": "npm run build",
     "postversion": "git push --follow-tags"
   },
