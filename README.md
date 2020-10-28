@@ -33,14 +33,7 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 <!-- TODO delete this About section on a new site -->
 
-A template that saves you time as it already contains boilerplate that will work for most projects:
-
-- Base files - ignore file, [package.json](/package.json) file and [src](/src/) directory.
-- Lint with ESLint.
-- Documentation in a [docs](/docs/) directory.
-- Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
-
-See the [about](/docs/template-notes/about.md) doc for the purpose of this project and how to use it.
+See the [about](/docs/template-notes/about.md) doc for a description of what's included in this project and how to use it this template.
 
 
 ## Documentation
