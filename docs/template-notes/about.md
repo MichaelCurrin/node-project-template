@@ -6,8 +6,19 @@ This page can be removed when making a new project from this one, but the docume
 
 This is a template project for new JavaScript projects, whether making a frontend app, server-side app or CLI tool.
 
+## What is included
 
-## How to use this project
+This template saves you time as it already contains boilerplate that will work for most projects:
+
+- Base files - git ignore file, [package.json](/package.json) file and [src](/src/) directory.
+- Lint with ESLint.
+- Documentation in a [docs](/docs/) directory.
+- Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
+
+The test command is just a placeholder - you'll have to setup use of Mocha, Jest or Jasmine yourself.
+
+
+## Steps to use this template
 
 <div align="center">
 
@@ -15,7 +26,7 @@ This is a template project for new JavaScript projects, whether making a fronten
 
 </div>
 
-1. Click the button above to fork the project.
+1. Click the button above to generate a new repo based on this template.
 2. Install locally using the [Installation](installation.md) doc.
 3. Run locally using the [Usage](usage.md) docs.
 3. Follow the [Customization](customization.md) doc.
