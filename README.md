@@ -1,13 +1,14 @@
 # Node Project Template
-> Template for creating Node.js projects including docs and a deploy pipeline
+> Starter template for creating a Node.js project including docs and a deploy pipeline
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
 [![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/preact-quickstart/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+
 
 <!-- TODO Remove this badge when creating a new app from this template -->
 
@@ -25,7 +26,7 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 <!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
 
 <div align="center">
-    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
 </div>
 
 
