@@ -2,7 +2,7 @@
   "name": "node-project-template",
   "displayName": "Node Project Template",
   "description": "Template for creating Node.js projects including docs and a deploy pipeline",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "author": "MichaelCurrin",
   "license": "MIT",
   "homepage": "https://github.com/MichaelCurrin/node-project-template#readme",
