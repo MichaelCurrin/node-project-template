@@ -9,7 +9,6 @@
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
-
 <!-- TODO Remove this badge when creating a new app from this template -->
 
 <div align="center">
@@ -33,6 +32,13 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 ## About
 
 <!-- TODO delete this About section on a new site -->
+
+A template that saves you time as it already contains boilerplate that will work for most projects:
+
+- Base package file and src directory.
+- Lint with ESLint.
+- Documentation in a docs directory.
+- Lint, test and build using GitHub Actions workflow.
 
 See the [about](/docs/template-notes/about.md) doc for the purpose of this project and how to use it.
 
