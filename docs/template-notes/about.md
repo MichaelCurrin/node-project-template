@@ -15,7 +15,7 @@ This template saves you time as it already contains boilerplate that will work f
 - Documentation in a [docs](/docs/) directory.
 - Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
 
-The test command is just a placeholder - you'll have to setup use of Mocha, Jest or Jasmine yourself.
+The test command is just a placeholder - you'll have to setup a test suite yourself as recommend in the Customization doc.
 
 
 ## Steps to use this template
@@ -27,8 +27,8 @@ The test command is just a placeholder - you'll have to setup use of Mocha, Jest
 </div>
 
 1. Click the button above to generate a new repo based on this template.
-2. Install locally using the [Installation](installation.md) doc.
-3. Run locally using the [Usage](usage.md) docs.
+2. Install the app locally using the [Installation](installation.md) doc.
+3. Run it locally using the [Usage](usage.md) docs.
 3. Follow the [Customization](customization.md) doc.
 
 
