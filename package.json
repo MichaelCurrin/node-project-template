@@ -7,8 +7,8 @@
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
-    "lint-check": "eslint .",
-    "lint-fix": "eslint . --fix",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint . --fix",
     "test": "echo 'TODO: Add a test runner and then update this command'",
     "serve": "echo 'TODO: Your serve commmand here",
     "start": "npm run serve",
