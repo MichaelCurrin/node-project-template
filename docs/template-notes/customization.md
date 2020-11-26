@@ -17,7 +17,7 @@ Things to do once you've created a new project from this one:
         ```
     - Or add an `eslintConfig` field to [package.json](/package.json).
 - [ ] Update ignore file. 
-    - If you use Yarn, add :
+    - If you use Yarn, take out `npm-debug.log*` and add:
         ```
         yarn-debug.log*
         yarn-error.log*
