@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "eslint": "^7.7.0"
-  }
+  },
   "homepage": "https://github.com/MichaelCurrin/node-project-template#readme",
   "repository": {
     "type": "git",
