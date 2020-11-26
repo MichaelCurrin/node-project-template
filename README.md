@@ -4,10 +4,10 @@
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
 [![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions)
+[![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-[![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
 <!-- TODO Remove this badge when creating a new app from this template -->
 
