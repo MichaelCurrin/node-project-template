@@ -13,7 +13,7 @@
     "serve": "echo 'TODO: Your serve commmand here",
     "start": "npm run serve",
     "build": "mkdir -p build && cp src/*.js build # TODO: Add your build command here",
-    "preversion": "git fetch --tags && npm lint-check && npm test",
+    "preversion": "git fetch --tags && npm run lint:check && npm test",
     "version": "npm run build",
     "postversion": "git push --follow-tags"
   },
