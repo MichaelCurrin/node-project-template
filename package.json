@@ -7,11 +7,13 @@
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
-    "lint": "eslint src",
-    "compile": "echo 'Compile code - if using TS or Babel etc.'",
-    "test": "echo 'Add a test runner and then update this command'",
-    "build": "mkdir -p build && cp src/*.js build",
-    "preversion": "git fetch --tags && npm test",
+    "lint-check": "eslint .",
+    "lint-fix": "eslint . --fix",
+    "test": "echo 'TODO: Add a test runner and then update this command'",
+    "serve": "echo 'TODO: Your serve commmand here",
+    "start": "npm run serve",
+    "build": "mkdir -p build && cp src/*.js build # TODO: Add your build command here",
+    "preversion": "git fetch --tags && npm lint-check && npm test",
     "version": "npm run build",
     "postversion": "git push --follow-tags"
   },
