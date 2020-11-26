@@ -1,10 +1,11 @@
 # Usage
 > How to run the app locally
 
+
 ## Lint
 
 ```sh
-$ npm run lint
+$ npm run lint:fix
 ```
 
 
@@ -15,10 +16,15 @@ $ npm test
 ```
 
 
-## Compile
-
-_Useful if you have TypeScript or new JS and you need to compile to plain JS or older JS syntax._
+## Start dev server
 
 ```sh
-$ npm run compile
+$ npm start
+```
+
+
+## Build
+
+```sh
+$ npm run build
 ```
