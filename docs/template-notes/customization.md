@@ -16,7 +16,13 @@ Things to do once you've created a new project from this one:
         npx eslint --init
         ```
     - Or add an `eslintConfig` field to [package.json](/package.json).
-- [ ] Add other build tools like Prettier, Husky, Webpack or Babel
+- [ ] Update ignore file. 
+    - If you use Yarn, add :
+        ```
+        yarn-debug.log*
+        yarn-error.log*
+        ```
+- [ ] Add other build tools like Prettier, Husky, Webpack or Babel.
 - [ ] Customize your build flow
     - For now JS scripts are just copied to `build` but you might use `dist` or `out` instead.
     - You might use TypeScript or Babel to handle this for you and then split out `build` and `compile` steps.
