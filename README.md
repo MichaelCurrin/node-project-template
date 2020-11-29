@@ -29,13 +29,6 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 </div>
 
 
-## About
-
-<!-- TODO delete this About section on a new site -->
-
-See the [about](/docs/template-notes/about.md) doc for a description of what's included in this project and how to use it this template.
-
-
 ## Documentation
 > How to install, run and deploy this project
 
@@ -44,6 +37,12 @@ See the [about](/docs/template-notes/about.md) doc for a description of what's i
 [![View Project Docs](https://img.shields.io/badge/View-Project_Docs-blue?style=for-the-badge)](/docs/)
 
 </div>
+
+### About
+
+<!-- TODO delete this About section on a new site -->
+
+See the [Template Notes](/docs/template-notes/) section for info on this template and how to use it.
 
 
 ## License
