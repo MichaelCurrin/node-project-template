@@ -6,19 +6,8 @@ This page can be removed when making a new project from this one, but the docume
 
 This is a template project for new JavaScript projects, whether making a frontend app, server-side app or CLI tool.
 
-## What is included
 
-This template saves you time as it already contains boilerplate that will work for most projects:
-
-- Base files - git ignore file, [package.json](/package.json) file and [src](/src/) directory.
-- Lint with ESLint.
-- Documentation in a [docs](/docs/) directory.
-- Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
-
-The test command is just a placeholder - you'll have to setup a test suite yourself as recommend in the Customization doc.
-
-
-## Steps to use this template
+## How to use this template
 
 <div align="center">
 
@@ -30,6 +19,18 @@ The test command is just a placeholder - you'll have to setup a test suite yours
 2. Install the app locally using the [Installation](installation.md) doc.
 3. Run it locally using the [Usage](usage.md) docs.
 3. Follow the [Customization](customization.md) doc.
+
+
+## What is included
+
+This template saves you time as it already contains boilerplate that will work for most projects:
+
+- Base files - git ignore file, [package.json](/package.json) file and [src](/src/) directory.
+- Lint with ESLint.
+- Boilerplate documentation in a [docs](/docs/) directory.
+- Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
+
+The test command is just a placeholder - you'll have to setup a test suite yourself as recommend in the Customization doc.
 
 
 ## Purpose
