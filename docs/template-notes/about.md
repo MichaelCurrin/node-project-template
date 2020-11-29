@@ -59,6 +59,7 @@ If you are looking for some simple JS projects which are more detailed than this
     - Build and deploy a React app to GH Pages using GitHub Actions
 - [preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
 - [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart)
+- [vue-typescript-quickstart](https://github.com/MichaelCurrin/vue-typescript-quickstart)
 - [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts) 
     - A couple of JS projects that use a mixture of bundle and compile tools like React, TypeScript and Babel.
 - [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) 
