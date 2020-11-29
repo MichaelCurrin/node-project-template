@@ -11,26 +11,29 @@ This is a template project for new JavaScript projects, whether making a fronten
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/node-project-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/node-project-template/generate)
 
 </div>
 
 1. Click the button above to generate a new repo based on this template.
-2. Install the app locally using the [Installation](installation.md) doc.
-3. Run it locally using the [Usage](usage.md) docs.
-3. Follow the [Customization](customization.md) doc.
+2. Install the app locally using the [Installation](/docs/installation.md) doc.
+3. Run it locally using the [Usage](/docs/usage.md) docs.
+3. Follow the [Customization](/docs/customization.md) doc.
 
 
 ## What is included
 
 This template saves you time as it already contains boilerplate that will work for most projects:
 
-- Base files - git ignore file, [package.json](/package.json) file and [src](/src/) directory.
-- Lint with ESLint.
-- Boilerplate documentation in a [docs](/docs/) directory.
-- Lint, test and build using GitHub Actions CI [workflow](/.github/workflows/main.yml).
+- Base files
+    - [.gitignore](/.gitignore) file
+    - [package.json](/package.json) file
+    - [src](/src/) directory.
+- Linting with ESLint.
+- Boilerplate documentation in the [docs](/docs/) directory.
+- A CI [workflow](/.github/workflows/main.yml) to lint, test and build using GitHub Actions 
 
-The test command is just a placeholder - you'll have to setup a test suite yourself as recommend in the Customization doc.
+The `test` command in the package file is just a placeholder - you'll have to setup a test suite yourself as recommended in the Customization doc.
 
 
 ## Purpose
@@ -46,7 +49,7 @@ This project is deliberately open-ended so you can make choices about your own N
 
 ### Python quickstart
 
-- [py-project-template](https://github.com/MichaelCurrin/py-project-template).
+- [![MichaelCurrin - py-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=py-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/py-project-template)
 
 ### JavaScript quickstarts
 
