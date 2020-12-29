@@ -40,11 +40,11 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 ### About
 
-<!-- TODO delete this About section on a new site -->
+<!-- TODO delete this About section on a new project -->
 
 See the [Template Notes](/docs/template-notes/) section for info on this template and how to use it.
 
 
 ## License
 
-Released under [MIT](/LICENSE).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
