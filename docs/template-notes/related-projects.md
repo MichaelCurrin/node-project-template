@@ -8,7 +8,7 @@
 
 ## Deno template
 
-- [![MichaelCurrin - deno-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=deno-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/deno-project-template).
+- [![MichaelCurrin - deno-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=deno-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/deno-project-template)
 
 
 ## JavaScript package quickstarts
