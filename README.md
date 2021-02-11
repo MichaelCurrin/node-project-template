@@ -3,17 +3,18 @@
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
-[![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions)
-[![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions?query=workflow:"Node+CI")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
-<!-- TODO Remove this badge when creating a new app from this template -->
+
+<!-- TODO: Remove this badge when creating a new app from this template -->
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/node-project-template/generate)
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/node-project-template/generate)
 
 </div>
 
@@ -38,11 +39,9 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 </div>
 
-### About
+<!-- TODO delete this note on a new project -->
 
-<!-- TODO delete this About section on a new project -->
-
-See the [Template Notes](/docs/template-notes/) section for info on this template and how to use it.
+See the [Template Notes](/docs/template-notes/) section of the docs for info on this template and how to use it.
 
 
 ## License
