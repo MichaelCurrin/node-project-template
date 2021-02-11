@@ -1,7 +1,6 @@
 {
   "name": "node-project-template",
   "version": "1.3.0",
-  "main": "src/index.js",
   "scripts": {
     "lint:check": "eslint .",
     "lint:fix": "eslint . --fix",
