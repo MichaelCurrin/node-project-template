@@ -9,6 +9,15 @@
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
+<div align="center">
+    <a href="#">  
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
+             alt="node icon"
+             title="Node.js"
+             width="150" height="150" />
+    </a>
+</div>
+
 
 <!-- TODO: Remove this badge when creating a new app from this template -->
 
