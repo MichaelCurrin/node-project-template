@@ -10,7 +10,7 @@
 [![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
 <div align="center">
-    <a href="#">  
+    <a href="https://nodejs.org">  
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
              alt="node icon"
              title="Node.js"
@@ -18,6 +18,7 @@
     </a>
 </div>
 
+<br>
 
 <!-- TODO: Remove this badge when creating a new app from this template -->
 
