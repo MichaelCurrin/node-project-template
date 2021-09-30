@@ -1,4 +1,5 @@
 {
+  // If you install the Editor Config extension, you can delete this file. Also you need some Prettier extension for a Prettier setting to work.
   "editor.tabSize": 2,
   "prettier.tabWidth": 2
 }
