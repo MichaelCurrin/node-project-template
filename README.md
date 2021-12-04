@@ -7,7 +7,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-[![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Made with Node](https://img.shields.io/badge/dynamic/json?label=node&query=%24.engines%5B%22node%22%5D&url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelCurrin%2Fnode-project-template/%2Fmaster%2Fpackage.json&logo=node.js&logoColor=white)](https://nodejs.org "Go to Node.js homepage")
 
 <div align="center">
     <a href="https://nodejs.org">  
