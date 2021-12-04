@@ -40,6 +40,22 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 </div>
 
 
+## Sample usage
+
+_TODO: Add just a few lines to show how to use your application. Such as a Node CLI or shell snippet._`
+
+```sh
+$ npm install foo
+$ foo --help
+```
+
+```javascript
+import { foo } from "bar";
+
+foo(123)
+```
+
+
 ## Documentation
 > How to install, run and deploy this project
 
