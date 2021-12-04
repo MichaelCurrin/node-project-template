@@ -16,7 +16,7 @@
     "eslint": "^7.7.0"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "displayName": "Node Project Template",
   "description": "Template for creating Node.js projects including docs and a deploy pipeline",
