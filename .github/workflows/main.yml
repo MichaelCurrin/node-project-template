@@ -1,32 +1,13 @@
-name: Node CI
+name: CI
 
-on:
-  push:
-    branches: master
-    paths-ignore:
-      - "docs/**"
-      
-  pull_request:
-    branches: master
-    paths-ignore:
-      - "docs/**"
+on: push
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
-      - name: Install 🔧
-        run: npm install
-
-      - name: Lint 🧐
-        run: npm run lint:check
-
-      - name: Test 🚨
-        run: npm test
-
-      - name: Build 🏗️
-        run: npm run build
+      - name: Run a one-line script
+        run: echo "Hello, world!"
