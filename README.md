@@ -42,12 +42,22 @@ _This is a placeholder section for a screenshot of your shiny new web app or CLI
 
 ## Sample usage
 
-_TODO: Add just a few lines to show how to use your application. Such as a Node CLI or shell snippet._`
+_TODO: Add just a few lines to show how to use your application - some samples below._
+
+Run with NPX:
+
+```sh
+$ npx foo
+```
+
+Install and run as a CLI tool:
 
 ```sh
 $ npm install foo
 $ foo --help
 ```
+
+Use in your JS app:
 
 ```javascript
 import { foo } from "bar";
